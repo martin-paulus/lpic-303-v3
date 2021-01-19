@@ -5,3 +5,7 @@ This project is a collection of references and study materials to support prepar
 ## Contents
 
 The contents will start out as a summary of objectives mentioned on the [LPI wiki](https://wiki.lpi.org/wiki/LPIC-303_Objectives_V3.0) enriched with links to further documentation. As the author continues the preparation process there may be more content added in the form of examples and proof on concept reports.
+
+Table of contents:
+
+* [X.509 Certificates and Public Key Infrastructures](lpic-303_v3_331.1_X.509_Certificates_and_Public_Key_Infrastructures.md)
