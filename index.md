@@ -9,3 +9,4 @@ The contents will start out as a summary of objectives mentioned on the [LPI wik
 Table of contents:
 
 * [X.509 Certificates and Public Key Infrastructures](lpic-303_v3_331.1_X.509_Certificates_and_Public_Key_Infrastructures.md)
+* [DNS and Cryptography](lpic-303_v3_331.4_DNS_and_Cryptography.md)
