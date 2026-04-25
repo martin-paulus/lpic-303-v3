@@ -1,4 +1,6 @@
 remote_theme: jekyll/minima@4de322363fca5927e6f4012cb94f6dad69ab5e6c
 
 minima:
+  nav_pages:
+    - index.md
   skin: dark
