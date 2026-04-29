@@ -12,5 +12,6 @@ Table of contents:
 
 * [X.509 Certificates and Public Key Infrastructures](lpic-303_v3_331.1_X.509_Certificates_and_Public_Key_Infrastructures.md)
 * [DNS and Cryptography](lpic-303_v3_331.4_DNS_and_Cryptography.md)
+* [Host Hardening](lpic-303_v3_332.1_Host_Hardening.md)
 * [Host Intrusion Detection](lpic-303_v3_332.2_Host_Intrusion_Detection.md)
 * [Mandatory Access Control](lpic-303_v3_333.2_Mandatory_Access_Control.md)
