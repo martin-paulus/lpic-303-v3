@@ -17,3 +17,6 @@ The contents will start out as a summary of objectives mentioned on the [LPI wik
 * [Host Intrusion Detection](lpic-303_v3_332.2_Host_Intrusion_Detection.md)
 * [Mandatory Access Control](lpic-303_v3_333.2_Mandatory_Access_Control.md)
 * [Packet Filtering](lpic-303_v3_334.3_Packet_Filtering.md)
+
+#### Weight: 4
+* [X.509 Certificates for Encryption, Signing and Authentication](lpic-303_v3_331.2_X.509_Certificates_for_Encryption_Signing_and_Authentication.md)
