@@ -21,3 +21,4 @@ The contents will start out as a summary of objectives mentioned on the [LPI wik
 #### Weight: 4
 * [X.509 Certificates for Encryption, Signing and Authentication](lpic-303_v3_331.2_X.509_Certificates_for_Encryption_Signing_and_Authentication.md)
 * [Network Hardening](lpic-303_v3_334.1_Network_Hardening.md)
+* [Network Intrusion Detection](lpic-303_v3_334.2_Network_Intrusion_Detection.md)
