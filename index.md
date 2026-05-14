@@ -23,3 +23,6 @@ The contents will start out as a summary of objectives mentioned on the [LPI wik
 * [Network Hardening](lpic-303_v3_334.1_Network_Hardening.md)
 * [Network Intrusion Detection](lpic-303_v3_334.2_Network_Intrusion_Detection.md)
 * [Virtual Private Networks](lpic-303_v3_334.4_Virtual_Private_Networks.md)
+
+#### Weight: 3
+* [Encrypted File Systems](lpic-303_v3_331.3_Encrypted_File_Systems.md)
