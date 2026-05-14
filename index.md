@@ -1,8 +1,8 @@
 ---
-title: LPIC-303 V3 Enterprise Security
+title: LPIC-303 V3 Security
 ---
 
-This project is a collection of references and study materials to support preparation for the LPIC 3 Enterprise Security exam, version 3.
+This project is a collection of references and study materials to support preparation for the LPIC 3 Security exam, version 3.
 
 ## Contents
 
