@@ -27,3 +27,4 @@ The contents will start out as a summary of objectives mentioned on the [LPI wik
 #### Weight: 3
 * [Encrypted File Systems](lpic-303_v3_331.3_Encrypted_File_Systems.md)
 * [Resource Control](lpic-303_v3_332.3_Resource_Control.md)
+* [Discretionary Access Control](lpic-303_v3_333.1_Discretionary_Access_Control.md)
