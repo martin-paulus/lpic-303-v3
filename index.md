@@ -29,3 +29,6 @@ The contents will start out as a summary of objectives mentioned on the [LPI wik
 * [Resource Control](lpic-303_v3_332.3_Resource_Control.md)
 * [Discretionary Access Control](lpic-303_v3_333.1_Discretionary_Access_Control.md)
 * [Penetration Testing](lpic-303_v3_335.2_Penetration_Testing.md)
+
+#### Weight: 2
+* [Common Security Vulnerabilities and Threats](lpic-303_v3_335.1_Common_Security_Vulnerabilities_and_Threats.md)
